@@ -23,6 +23,7 @@ import org.springframework.graphql.data.method.annotation.support.AnnotatedContr
  * {@link AnnotatedControllerConfigurer} whilst retaining default auto-configuration.
  *
  * @author Max Hovens
+ * @since 3.3.0
  */
 @FunctionalInterface
 public interface AnnotatedControllerConfigurerCustomizer {
